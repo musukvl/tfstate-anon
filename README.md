@@ -1,0 +1,1 @@
+Anonymyzes tfstate file for publishing

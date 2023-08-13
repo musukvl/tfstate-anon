@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amba.TfstateAnon", "Amba.TfstateAnon\Amba.TfstateAnon.csproj", "{03FD8F0F-6ED7-48C8-8738-F0AE9E88EFBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03FD8F0F-6ED7-48C8-8738-F0AE9E88EFBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03FD8F0F-6ED7-48C8-8738-F0AE9E88EFBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03FD8F0F-6ED7-48C8-8738-F0AE9E88EFBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03FD8F0F-6ED7-48C8-8738-F0AE9E88EFBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
